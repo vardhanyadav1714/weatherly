@@ -1,50 +1,75 @@
-# Welcome to your Expo app 👋
+# 🌦️ Weatherly
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Weatherly** is a stunning, premium weather experience built with React Native and Expo. It features a modern glassmorphic design, smooth animations, and accurate real-time weather data.
 
-## Get started
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Expo](https://img.shields.io/badge/expo-v54.0-black.svg)
+![React Native](https://img.shields.io/badge/react--native-v0.81.5-61dafb.svg)
 
-1. Install dependencies
+## ✨ Features
 
+- 💎 **Glassmorphic UI**: A beautiful, modern interface with transparency and blur effects.
+- 🎭 **Smooth Animations**: Powered by React Native Reanimated for a fluid experience.
+- ☀️ **Real-time Weather**: Accurate current weather, hourly, and 3-day forecasts.
+- 🌡️ **Unit Conversion**: Easily switch between Celsius and Fahrenheit.
+- 🗺️ **City Search**: Search for any city worldwide.
+- 🌙 **Adaptive Design**: Looks great in both light and dark backgrounds based on weather conditions.
+- 📱 **Responsive**: Optimized for both iOS and Android.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or newer)
+- npm or yarn
+- Expo Go app on your physical device or an emulator
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/weatherly.git
+   cd weatherly
+   ```
+
+2. **Install dependencies**:
    ```bash
    npm install
    ```
 
-2. Start the app
+3. **Set up Environment Variables**:
+   Create a `.env` file in the root directory (refer to `.env.example`):
+   ```env
+   EXPO_PUBLIC_WEATHER_API_KEY=your_weatherapi_key
+   ```
+   *Note: You can get a free API key from [WeatherAPI.com](https://www.weatherapi.com/).*
 
+4. **Launch the app**:
    ```bash
-   npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Framework**: [Expo](https://expo.dev/) / [React Native](https://reactnative.dev/)
+- **Animation**: [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- **Icons**: [Expo Vector Icons](https://docs.expo.dev/guides/icons/)
+- **Navigation**: [Expo Router](https://docs.expo.dev/routing/introduction/)
+- **Styling**: [React Native StyleSheet](https://reactnative.dev/docs/stylesheet)
+- **API**: [WeatherAPI](https://www.weatherapi.com/)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📄 License
 
-## Get a fresh project
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-When you're ready, run:
+## 🤝 Contributing
 
-```bash
-npm run reset-project
-```
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📧 Support
 
-## Learn more
+For support, please contact: [vardhan.yadav.1714@gmail.com](mailto:vardhan.yadav.1714@gmail.com)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Developed with ❤️ by [Vardhan Yadav](https://github.com/yourusername)

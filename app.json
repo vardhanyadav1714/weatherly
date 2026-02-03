@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "weatherapp",
-    "slug": "weatherapp",
+    "name": "Weatherly",
+    "slug": "weatherly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "weatherapp",
+    "scheme": "weatherly",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -31,9 +31,9 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
+          "imageWidth": 250,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
+          "backgroundColor": "#4c669f",
           "dark": {
             "backgroundColor": "#000000"
           }
@@ -43,6 +43,9 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "weatherApiKey": "d6362fb98fd64765ac1163448232309"
     }
   }
 }
