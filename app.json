@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.vardhanyadav1714.weatherly"
     },
     "web": {
       "output": "static",
@@ -38,14 +39,19 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
     },
     "extra": {
-      "weatherApiKey": "d6362fb98fd64765ac1163448232309"
+      "weatherApiKey": "d6362fb98fd64765ac1163448232309",
+      "router": {},
+      "eas": {
+        "projectId": "ea5e7f4f-94c0-415c-9004-a80998394f4d"
+      }
     }
   }
 }

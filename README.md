@@ -1,4 +1,7 @@
-# 🌦️ Weatherly
+<div align="center">
+  <img src="./assets/images/appicon.png" alt="Weatherly App Icon" width="120" />
+  <h1>🌦️ Weatherly</h1>
+</div>
 
 **Weatherly** is a stunning, premium weather experience built with React Native and Expo. It features a modern glassmorphic design, smooth animations, and accurate real-time weather data.
 
@@ -15,6 +18,15 @@
 - 🗺️ **City Search**: Search for any city worldwide.
 - 🌙 **Adaptive Design**: Looks great in both light and dark backgrounds based on weather conditions.
 - 📱 **Responsive**: Optimized for both iOS and Android.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./assets/screenshots/1.png" width="200" alt="Home Screen" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/2.png" width="200" alt="Weather Details" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/3.png" width="200" alt="Forecast" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/4.png" width="200" alt="Settings" style="border-radius: 15px; margin: 10px;" />
+</div>
 
 ## 🚀 Getting Started
 
