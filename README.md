@@ -22,10 +22,10 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./assets/screenshots/1.png" width="200" alt="Home Screen" style="border-radius: 15px; margin: 10px;" />
-  <img src="./assets/screenshots/2.png" width="200" alt="Weather Details" style="border-radius: 15px; margin: 10px;" />
-  <img src="./assets/screenshots/3.png" width="200" alt="Forecast" style="border-radius: 15px; margin: 10px;" />
-  <img src="./assets/screenshots/4.png" width="200" alt="Settings" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/1.jpeg" width="200" alt="Home Screen" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/2.jpeg" width="200" alt="Weather Details" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/3.jpeg" width="200" alt="Forecast" style="border-radius: 15px; margin: 10px;" />
+  <img src="./assets/screenshots/4.jpeg" width="200" alt="Settings" style="border-radius: 15px; margin: 10px;" />
 </div>
 
 ## 🚀 Getting Started
