@@ -4,7 +4,7 @@
 </div>
 
 **Weatherly** is a stunning, premium weather experience built with React Native and Expo. It features a modern glassmorphic design, smooth animations, and accurate real-time weather data.
-
+  
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Expo](https://img.shields.io/badge/expo-v54.0-black.svg)
 ![React Native](https://img.shields.io/badge/react--native-v0.81.5-61dafb.svg)
@@ -28,7 +28,13 @@
   <img src="./assets/screenshots/4.jpeg" width="200" alt="Settings" style="border-radius: 15px; margin: 10px;" />
 </div>
 
-## 🚀 Getting Started
+## 📦 Download APK
+
+👉 **[Click here to download the APK](https://drive.google.com/file/d/1J2zz7kYtwn95aPQ_c24GiA7_RJ4513tt/view?usp=sharing)**
+
+> ⚠️ Make sure to enable **“Install from unknown sources”** on your Android device.
+
+---
 
 ### Prerequisites
 
